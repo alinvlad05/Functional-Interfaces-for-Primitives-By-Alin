@@ -115,7 +115,7 @@
         //In other cases, such as IntFunction, only the return type generic is needed.
         //The single abstract method is often, but not always, renamed to reflect the primitive type involved.
         //(As"Primitive" este in plus la nume).
-        //BiConsumer, BiPredicate, and BiFunction are not in Table 4.9.
+        //BiConsumer, BiPredicate, and BiFunction are not in here.
         //The API designers stuck to the most common operations.
         //For primitives, the functions with two different type parameters just aren't used often.
 
