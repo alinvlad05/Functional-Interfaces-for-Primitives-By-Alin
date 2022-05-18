@@ -108,7 +108,7 @@
 
         //_____________________________________________________________________________
 
-        //There are a few things to notice that are different between Table 4.1 and Table 4.9:
+        //There are a few things to notice that are different:
 
         //Generics are gone from all of the interfaces except "Primitive"Function<Returntype>,
         //because the type name tells us what primitive type is involved.
@@ -119,7 +119,7 @@
         //The API designers stuck to the most common operations.
         //For primitives, the functions with two different type parameters just aren't used often.
 
-        //In addition to Table 4.1 equivalents, some interfaces are specific to primitives. Table 4.10 lists these.
+        //In addition to equivalents, some interfaces are specific to primitives.
         //Primitive-specific functional interfaces
 
         //To"Primitive"Function<Type>
